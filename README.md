@@ -16,7 +16,7 @@ Solayer is building the restaking network on Solana. We are extending the princi
 ### Join us!
 We are a research-inspired, execution-driven team. The team is decentralized and remote across diverse regions. 
 
-Open job positions: (https://wellfound.com/l/2A1qZP)
+Open job positions: [Founding Protocol Engineer](https://wellfound.com/l/2A1qZP)
 For anything else, please reach out to us at team@solayer.org!
 
 
