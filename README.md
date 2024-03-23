@@ -13,7 +13,7 @@ Solayer is building the restaking network on Solana. We are extending the princi
 2. "Minimum Economic Guarantee"
 3. Solana as base Data Availability primitive
 4. AVS Collator
-
+5. etc...
 
 ### Join us!
 We are a research-inspired, execution-driven team. The team is decentralized and remote across diverse regions. 
