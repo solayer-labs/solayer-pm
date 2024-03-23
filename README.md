@@ -8,9 +8,10 @@ Solayer is building the restaking network on Solana. We are extending the princi
 * AVS development
 
 
-### Research 
+### Research Areas 
 1. Inter-AVS messaging layer
-2. "Minimum Economic Guarantee" 
+2. "Minimum Economic Guarantee"
+3. Solana as base Data Availability primitive 
 
 
 ### Join us!
