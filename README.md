@@ -27,4 +27,6 @@ For anything else, please reach out to us at team@solayer.org!
 * 📄 Docs: https://docs.solayer.org
 * 💬 Discord: https://discord.gg/solayer-labs
 * 💬 Twitter: https://twitter.com/solayer_labs
+* 💬Discourse: https://solayer.discourse.group/latest
 * 📝 Writings: https://solayer.org/blogs
+
