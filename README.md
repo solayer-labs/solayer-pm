@@ -3,9 +3,9 @@
 Solayer is building the restaking network on Solana. We are extending the principles of shared security into reality. 
 
 ### Our main infrastructure 
-Restaking
-Node Operators 
-AVS development
+* Restaking
+* Node Operators 
+* AVS development
 
 
 ### Research 
