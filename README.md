@@ -11,9 +11,10 @@ Solayer is building the restaking network on Solana. We are extending the princi
 ### Research Areas 
 1. Inter-AVS messaging layer
 2. "Minimum Economic Guarantee"
-3. Solana as base Data Availability primitive
-4. AVS Collator
-5. etc...
+3. Localized node operators
+4. Solana as base Data Availability primitive
+5. AVS Collator
+6. etc...
 
 ### Join us!
 We are a research-inspired, execution-driven team. The team is decentralized and remote across diverse regions. 
